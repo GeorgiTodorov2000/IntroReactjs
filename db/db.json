@@ -1,0 +1,61 @@
+{
+  "users": [
+    {
+      "id": "b698e697-5a90-4b9f-bf93-a37efdd9fbed",
+      "name": "Joyce Britt",
+      "email": "joycebritt@isoternia.com",
+      "phone": "+359 (875) 575-2188"
+    },
+    {
+      "id": "3c82ed4f-6a87-498e-acf8-dade077ec778",
+      "name": "Stewart Barrett",
+      "email": "stewartbarrett@isoternia.com",
+      "phone": "+359 (871) 518-3585"
+    },
+    {
+      "id": "e6697403-cf9d-4af1-acb1-49ca9664085c",
+      "name": "Bridgett Hawkins",
+      "email": "bridgetthawkins@isoternia.com",
+      "phone": "+359 (977) 553-2180"
+    },
+    {
+      "name": "Todor",
+      "email": "ivanov@abv.bg",
+      "phone": "0891597534",
+      "id": "3SpJptW"
+    },
+    {
+      "name": "todor",
+      "email": "todor@abv.bg",
+      "phone": "0897531368",
+      "password": "123",
+      "id": "j9GbX1S"
+    }
+  ],
+  "cars": [
+    {
+      "id": "1",
+      "type": "suv",
+      "brand": "mazda",
+      "model": "CX-30",
+      "constructionYear": "2022",
+      "fuelType": "petrol",
+      "seats": "4",
+      "picture": "https://picsum.photos/200/300?random=1",
+      "pricePerDay": "250bgn",
+      "count": "10"
+    },
+    {
+      "type": "suv",
+      "brand": "bmw",
+      "model": "",
+      "constructionYear": "2015",
+      "fuelType": "diesel",
+      "seats": "4",
+      "picture": "https://picsum.photos/200/300?random=0.7394777378554196",
+      "pricePerDay": "250",
+      "count": "5",
+      "id": "CGjapHQ"
+    }
+  ]
+}

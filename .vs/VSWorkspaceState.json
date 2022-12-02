@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src\\components\\cars",
+    "\\src\\components\\cars\\car",
+    "\\src\\components\\cars\\car-form",
+    "\\src\\components\\cars\\cars-list",
+    "\\src\\components\\main",
+    "\\src\\components\\users",
+    "\\src\\components\\users\\users-list",
+    "\\src\\utils",
+    "\\src\\utils\\http-utils"
+  ],
+  "PreviewInSolutionExplorer": false
+}
